@@ -105,6 +105,13 @@ cities.unshift("Philadelphia")
 
 // cities is now ["Philadelphia", "New York", "San Francisco"]
 ```
+javascript
+var chocolateBars = [
+  "snickers", 
+  "hundred grand",
+  "kitkat",
+  "skittles"
+  ]
 
 //These actions _change_ the underlying array — in other words, they **mutate** its value.
 
