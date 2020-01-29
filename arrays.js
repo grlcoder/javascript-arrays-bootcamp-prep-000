@@ -85,6 +85,15 @@ var evenNumbers = new Array();
 
 //**TODO**: In arrays.js, define a variable called chocolateBars. Its value should be an array of the strings snickers, hundred grand, kitkat, and skittles.
 
+javascript
+var chocolateBars = [
+  "snickers", 
+  "hundred grand",
+  "kitkat",
+  "skittles"
+  ]
+
+
 //## Adding an Element
 
 //JavaScript allows us to push elements onto the end of an array:
@@ -105,13 +114,7 @@ cities.unshift("Philadelphia")
 
 // cities is now ["Philadelphia", "New York", "San Francisco"]
 ```
-javascript
-var chocolateBars = [
-  "snickers", 
-  "hundred grand",
-  "kitkat",
-  "skittles"
-  ]
+
 
 //These actions _change_ the underlying array — in other words, they **mutate** its value.
 
