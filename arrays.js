@@ -9,5 +9,3 @@ var chocolateBars= [
   "kitkat",
   "skittles"
   ];
-
-ref='https://learn.co/lessons/javascript-arrays'>JavaScript Arrays</a> on Learn.co and start learning to code for free.</p>
