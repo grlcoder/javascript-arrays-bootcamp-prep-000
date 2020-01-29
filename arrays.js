@@ -91,7 +91,7 @@ var chocolateBars= [
   "hundred grand",
   "kitkat",
   "skittles"
-  ]
+  ];
 
 
 //## Adding an Element
