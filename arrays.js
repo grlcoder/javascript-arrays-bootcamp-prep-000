@@ -85,17 +85,15 @@ var evenNumbers = new Array();
 
 //**TODO**: In arrays.js, define a variable called chocolateBars. Its value should be an array of the strings snickers, hundred grand, kitkat, and skittles.
 
-javascript
-function chocolateBars(){
-var xarr = [
+
+var chocolateBars= [
   "snickers", 
   "hundred grand",
   "kitkat",
   "skittles"
   ]
 
-return xarr
-}
+
 //## Adding an Element
 
 //JavaScript allows us to push elements onto the end of an array:
